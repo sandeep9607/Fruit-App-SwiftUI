@@ -10,11 +10,11 @@ The app showcases beautiful onboarding screens, a fruit catalog, detailed nutrit
 
 | Onboarding | Fruit List |
 |------------|------------|
-| <img src="Screenshots/onboarding.png" width="250"> | <img src="Screenshots/list.png" width="250"> |
+| <img src="Screenshots/onbording.png" width="250"> | <img src="Screenshots/list.png" width="250"> |
 
 | Fruit Details | Nutrition |
 |--------------|-----------|
-| <img src="Screenshots/detail.png" width="250"> | <img src="Screenshots/nutrition.png" width="250"> |
+| <img src="Screenshots/detail.png" width="250"> | <img src="Screenshots/neutritions.png" width="250"> |
 
 ---
 
