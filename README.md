@@ -73,7 +73,7 @@ This project helped me gain practical experience with:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/sandeep9607/Fruit-App-SwiftUI.git
+git clone https://github.com/sandeep9607/Fruit-Shop-SwiftUI.git
 ```
 
 Open the project using Xcode and run it on an iOS Simulator or a physical device.
